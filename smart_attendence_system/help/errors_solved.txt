@@ -1,0 +1,5 @@
+This is place where I will write the errors I faced while creating Project along with it's Solution..
+
+1. ImportError: attempted relative import with no known parent package
+Solution: https://www.youtube.com/watch?v=pm1IK0fBuhw
+

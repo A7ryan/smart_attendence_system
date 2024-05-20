@@ -1,0 +1,21 @@
+1. Basics of Face Recognition:
+    https://pypi.org/project/face-recognition/
+
+2. https://basilchackomathew.medium.com/face-recognition-in-python-a-comprehensive-guide-960a48436d0f
+
+3. Automate the Images Encoding: 
+    https://www.youtube.com/watch?v=r6Cn3hjFvsI
+    https://www.youtube.com/watch?v=j6GNtqrwcNE&t=1s
+    https://stackoverflow.com/questions/36774431/how-to-load-images-from-a-directory-on-the-computer-in-python
+
+4. Format the Date Time:
+    https://www.geeksforgeeks.org/get-current-date-and-time-using-python/
+
+5. Writing CSV in Python:
+    https://www.almabetter.com/bytes/articles/how-to-create-csv-file-in-python
+
+6. Convert Captured image to RGB:
+    https://stackoverflow.com/questions/50963283/opencv-imshow-doesnt-need-convert-from-bgr-to-rgb
+    
+7. Database All help:
+    https://www.w3schools.com/python/python_mysql_create_db.asp
