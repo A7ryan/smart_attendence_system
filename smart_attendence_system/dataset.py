@@ -13,7 +13,7 @@ for images in images_file:
         face_encoded = face_recognition.face_encodings(face_pic)[0]
 
         known_face_encode.append(face_encoded)
-        known_face_name.append(images) # just add the name of picture (already contain name and id)
+        known_face_name.append(images) # add the name of picture ie. (already contain name and id)
 
 # print(known_face_encode)
 # print(known_face_name)
