@@ -15,7 +15,9 @@
 
 # Note:
 
-i.   The database name is charusat_students
-ii.  The table name will be the present day date. E.g. 2024_07_23 -> This is table name which has stu_name (varchar) and present_date (date) attributes.
-iii. You can create a dashboard to view student by date in either PHP or Next.JS and it will show accurate data.
-iv.  In case if you find model accuracy low, kindly use proper webcam or change the dataset.py file to train model's accurary.
+1.  The database name is charusat_students
+2.  The table name will be the present day date. E.g. 2024_07_23 -> This is table name which has stu_name (varchar) and present_date (date) attributes.
+3.  You can create a dashboard to view student by date in either PHP or Next.JS and it will show accurate data.
+4.  In case if you find model accuracy low, kindly use proper webcam or change the dataset.py file to train model's accurary.
+
+5. The demo.csv file is of no use, I had just used it as test purpose!!
